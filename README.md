@@ -23,6 +23,7 @@
 - [Playing the List](#playing-the-list)
   - [Starting Up](#starting-up)
   - [Starting the Game](#starting-the-game)
+  - [Hotkeys](#hotkeys)
 - [Credits and Thanks](#credits-and-thanks)
 
 - ## Overview
@@ -128,6 +129,17 @@ I haven't include anything to support it. Feel free to do it yourself.
 It may take some moment starting new game, do not panic.
 
 In-game once you obtained control over your character apply MCM Settings in order for mods to function properly!
+
+### Hotkeys
+
+Those predefined hotkeys for the list but they may not function for you at the start. If so your case then just go to game menu settings and may sure conrols below not being used there.
+
+F - POV Switch
+X - Favorites
+LAlt - Bashing
+G - Grenade
+Mouse4 - Lower Weapon
+Mouse5 - Quick Workshop Access
 
 ## Credits and Thanks
 
