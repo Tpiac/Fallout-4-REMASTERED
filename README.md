@@ -134,12 +134,12 @@ In-game once you obtained control over your character apply MCM Settings in orde
 
 Those predefined hotkeys for the list but they may not function for you at the start. If so your case then just go to game menu settings and may sure conrols below not being used there.
 
-F - POV Switch
-X - Favorites
-LAlt - Bashing
-G - Grenade
-Mouse4 - Lower Weapon
-Mouse5 - Quick Workshop Access
+- F - POV Switch
+- X - Favorites
+- LAlt - Bashing
+- G - Grenade
+- Mouse4 - Lower Weapon
+- Mouse5 - Quick Workshop Access
 
 ## Credits and Thanks
 
