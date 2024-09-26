@@ -1,6 +1,6 @@
 # Installation instructions
 
-![SkyrimREMASTEREDBanner](https://github.com/Tpiac/Skyrim-REMASTERED/assets/154772540/d4d99a42-a0e5-4ccc-b7e6-fd10aa5d2269)
+![Fallout4_REMASTERED](https://github.com/user-attachments/assets/f48528af-4239-47b4-9526-d967f62b899c)
 
 <p align="center">
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
