@@ -30,6 +30,12 @@
 
 This mod list enhances Fallout as a first-person shooter with RPG elements, where combat is unforgiving and lethal, especially without proper protection. Only the best equipment and your skill will help you survive. The mods are curated to avoid bloat and remain lore-friendly, enriching your experience while respecting the game's authentic atmosphere. Prepare for a challenging journey where every bullet counts!
 
+- Only few curated pieces of new content added to the list. Thats why it called "REMASTERED"
+- Lore-friendly and well patched. No broken previs or precombs, no bugs that will lock you out of the content
+- Tactical and deadly aka S.T.A.L.K.E.R. and Escape from Tarkov
+- All base game textures/lods have been swapped to the carefully curated community ones
+- Many personal tweaks/fixes to makewhole expierence work nice together
+
 ## List Contents
 
 The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/fallout-4-remastered).
