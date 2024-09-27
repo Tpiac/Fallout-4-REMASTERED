@@ -146,7 +146,7 @@ Those predefined hotkeys for the list but they may not function for you at the s
 - X - Favorites
 - LAlt - Bashing
 - G - Grenade
-- N - Scope Night Vision
+- N - Scope Night/Recon Vision
 - Mouse4 - Lower Weapon
 - Mouse5 - Quick Workshop Access
 
