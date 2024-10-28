@@ -60,7 +60,7 @@ Modlist contain 400+ mods so nexus premium should save your time with that. Othe
 Please complete the following steps:
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 2. Install [Microsoft .NET 6.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime) and [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime).
-3. Fresh copy of `1.10.984` installed on Steam should be fine. It should be a fresh installation.
+3. A fresh copy of the English version `1.10.984` installed on Steam should be fine. It needs to be a fresh installation.
 
 #### Pagefile and Crash Prevention
 
@@ -92,9 +92,11 @@ Steam version, English
 
 If your Steam library is in Program Files, refer to [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) guide to move it elsewhere. Do not install do default Windows folders (Desktop, Documents, Downloads, etc.) as this will cause issues.
 
-As mentioned earlier, your game version on Steam should be `1.6.1170`, AE Edition with downloaded CC content(launch once, download, close).
+As mentioned earlier, your game version on Steam should be English `1.10.984`. Then launch from steam once and close.
 
 ### List Installation
+
+If you use Windows Defender, it is advised that you set up an Exception for the entire modlist folder. 
 
 #### Installing Wabbajack
 
@@ -107,7 +109,7 @@ Downloading and installing Fallout 4 REMASTERED can take some time depending on 
 2. Open Wabbajack, go to `Install from Disk`, Target Modlist refer to F4 REMASTERED.wabbajack
 3. Set your installation folder to the folder you made in step 1 (e.g. `C:\Fallout 4 REMASTERED`).
 5. Your downloads folder should be set automatically. If it isn’t, set it to either `Fallout 4 REMASTERED\downloads` or another location. It can even be on another drive.
-6. Click the start button to begin. Follow any prompts on-screen. *Reiterating from earlier: if you do not have Nexus Premium, you will have to manually click through each mod. There are over 1600 mods.*
+6. Click the start button to begin. Follow any prompts on-screen. *Reiterating from earlier: if you do not have Nexus Premium, you will have to manually click through each mod. There are over 400 mods.*
 7. It take a while depending on your connection. If you have any errors during installation, see below. Otherwise, carry on to [post-installation](#post-installation) when completed.
 
 If there specific files failed to download despite you doing everything right inform me via [Discord](https://discord.gg/AHW33bnUb5)
@@ -116,16 +118,14 @@ If there specific files failed to download despite you doing everything right in
 
 ### Stock Game and Antivirus
 
-Fallout 4 REMASTERED uses stock game in the MO2 folder. 
+Fallout 4 REMASTERED uses a stock game in the MO2 folder, which means you are no longer required to keep your Steam folder intact, and official updates no longer matter. You can safely uninstall the game from Steam after the modlist compilation is complete.
 
-If you use Windows Defender, it is advised that you set up an Exception for the entire modlist. 
-
-At the bottom of the modlist after you open Mod Organizer you will find `NVIDIA RTX USERS CHECK THIS` and `OPTIONAL` separators
- Switch ON & OFF Anytime
+At the bottom of the modlist after you open Mod Organizer you will find `NVIDIA RTX USERS CHECK THIS` and `OPTIONAL(Switch ON & OFF Anytime)` separators
+ Under first separator you will find DLSS & DLAA mod and under the second mods that can you safely enable/disable anytime you want
 
 #### Widescreen And Gamepad Support
 
-I haven't include anything to support it. Feel free to do it yourself. 
+No widescreen support. If you are going to add it yourself, pay attention to the mods you add, as some of them may be outdated, break the list's functionality, and so on
 
 ## Playing the List
 
@@ -140,6 +140,7 @@ I haven't include anything to support it. Feel free to do it yourself.
 It may take some moment starting new game, do not panic.
 
 In-game once you obtained control over your character apply MCM Settings in order for mods to function properly!
+![Apply](https://github.com/user-attachments/assets/e36c0819-3c5d-4d2f-94a3-f4b982737ec2)
 
 ### Hotkeys
 
